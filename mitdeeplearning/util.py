@@ -31,7 +31,7 @@ def plot_sample(x,y,vae):
     plt.imshow(recon[idx])
     plt.grid(False)
 
-    plt.show()
+    # plt.show()
 
 
 
